@@ -1,2 +1,2 @@
-# -academia-bac-
+# academia-bac
 Platforma de învățare și evaluare
